@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(19, 59, 75);
+}
+
+body:hover {
+  background-color: #0e7caf;
+  -webkit-transition: background-color 1000ms linear;
+  -ms-transition: background-color 1000ms linear;
+  transition: background-color 1000ms linear;
+}
